@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Belal, a computer science student with a passion for machine learning and<br> artificial intelligence. <br>I'm always on the lookout for new and exciting projects to work on <br>and I'm eager to gain experience and contribute to the field. <br>In my free time, I enjoy exploring new technologies and tinkering with <br>machine learning algorithms.<br><br>Feel free to reach out to me if you have any interesting projects or ideas!<br>
+Hi, I'm Belal, an artificial intelligence engineer with a passion for machine learning and<br> artificial intelligence. <br>I'm always on the lookout for new and exciting projects to work on <br>and I'm eager to gain experience and contribute to the field. <br>In my free time, I enjoy exploring new technologies and tinkering with <br>machine learning algorithms.<br><br>Feel free to reach out to me if you have any interesting projects or ideas!<br>
 
 
 ## 🌐 Socials:
